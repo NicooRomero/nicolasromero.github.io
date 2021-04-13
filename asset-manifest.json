@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfoliov2/static/css/main.6ffbe2b9.chunk.css",
+    "main.js": "/portfoliov2/static/js/main.db8208ff.chunk.js",
+    "main.js.map": "/portfoliov2/static/js/main.db8208ff.chunk.js.map",
+    "runtime-main.js": "/portfoliov2/static/js/runtime-main.1d73af2f.js",
+    "runtime-main.js.map": "/portfoliov2/static/js/runtime-main.1d73af2f.js.map",
+    "static/css/2.73d6e14f.chunk.css": "/portfoliov2/static/css/2.73d6e14f.chunk.css",
+    "static/js/2.6736fe3f.chunk.js": "/portfoliov2/static/js/2.6736fe3f.chunk.js",
+    "static/js/2.6736fe3f.chunk.js.map": "/portfoliov2/static/js/2.6736fe3f.chunk.js.map",
+    "static/js/3.4a44c08b.chunk.js": "/portfoliov2/static/js/3.4a44c08b.chunk.js",
+    "static/js/3.4a44c08b.chunk.js.map": "/portfoliov2/static/js/3.4a44c08b.chunk.js.map",
+    "index.html": "/portfoliov2/index.html",
+    "static/css/2.73d6e14f.chunk.css.map": "/portfoliov2/static/css/2.73d6e14f.chunk.css.map",
+    "static/css/main.6ffbe2b9.chunk.css.map": "/portfoliov2/static/css/main.6ffbe2b9.chunk.css.map",
+    "static/js/2.6736fe3f.chunk.js.LICENSE.txt": "/portfoliov2/static/js/2.6736fe3f.chunk.js.LICENSE.txt",
+    "static/media/adm-budget.48a5b224.jpg": "/portfoliov2/static/media/adm-budget.48a5b224.jpg",
+    "static/media/back-end.344366f3.jpg": "/portfoliov2/static/media/back-end.344366f3.jpg",
+    "static/media/background.c367868f.jpg": "/portfoliov2/static/media/background.c367868f.jpg",
+    "static/media/banner.261377ee.jpg": "/portfoliov2/static/media/banner.261377ee.jpg",
+    "static/media/bookmark-page.fe5a0c24.jpg": "/portfoliov2/static/media/bookmark-page.fe5a0c24.jpg",
+    "static/media/easybank-page.8c8801a6.jpg": "/portfoliov2/static/media/easybank-page.8c8801a6.jpg",
+    "static/media/front-end.29d700d7.jpg": "/portfoliov2/static/media/front-end.29d700d7.jpg",
+    "static/media/full.0c32aa00.jpg": "/portfoliov2/static/media/full.0c32aa00.jpg",
+    "static/media/manage-page.46de1304.jpg": "/portfoliov2/static/media/manage-page.46de1304.jpg",
+    "static/media/old-portfolio.432f8c8d.jpg": "/portfoliov2/static/media/old-portfolio.432f8c8d.jpg",
+    "static/media/perfil.a8a8d49f.jpg": "/portfoliov2/static/media/perfil.a8a8d49f.jpg",
+    "static/media/photobanner.4ce433e5.jpg": "/portfoliov2/static/media/photobanner.4ce433e5.jpg",
+    "static/media/tiendajs-page.266b1c20.jpg": "/portfoliov2/static/media/tiendajs-page.266b1c20.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d73af2f.js",
+    "static/css/2.73d6e14f.chunk.css",
+    "static/js/2.6736fe3f.chunk.js",
+    "static/css/main.6ffbe2b9.chunk.css",
+    "static/js/main.db8208ff.chunk.js"
+  ]
+}
