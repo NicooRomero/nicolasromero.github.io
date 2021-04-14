@@ -88,7 +88,7 @@ export default function ButtonAppBar() {
                   variant="contained"
                   color="primary"
                   className={classes.button}
-                  onClick={event =>  window.open('https://drive.google.com/file/d/1U_tVQpceJ3FyB17ndDYqFhg7mlJRB6ka/view')}
+                  onClick={event =>  window.open('https://drive.google.com/file/d/1EuqQBZldFBIUJFaujIzf_G-CnckA7uQa/view')}
                 >
                   Descargar CV
                 </Button>

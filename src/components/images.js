@@ -9,6 +9,7 @@ import img3 from '../images/pages/manage-page.jpg';
 import img4 from '../images/pages/old-portfolio.jpg';
 import img5 from '../images/pages/tiendajs-page.jpg';
 import img6 from '../images/pages/adm-budget.jpg';
+import img7 from '../images/pages/portfoliov2.jpg';
 
 const images = [
   {
@@ -59,6 +60,14 @@ const images = [
     link: '#',
     desc: 'MERN - React'
   },
+{
+  url: `${img7}`,
+  title: 'Portfolio V2',
+  width: '30%',
+  margin: '10px auto',
+  link: 'https://nicooromero.github.io/portfoliov2/',
+  desc: 'React - Material UI - Emailjs'
+},
 ];
 
 const useStyles = makeStyles((theme) => ({
