@@ -54,11 +54,11 @@ const images = [
   },
   {
     url: `${img6}`,
-    title: 'ABM Operaciones',
+    title: 'Operaciones',
     width: '30%',
     margin: '10px auto',
-    link: '#',
-    desc: 'MERN - React'
+    link: 'https://github.com/NicooRomero/projectomern',
+    desc: 'MERN - MaterialUi'
   },
 {
   url: `${img7}`,
