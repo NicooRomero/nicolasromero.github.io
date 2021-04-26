@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfoliov2/static/css/main.6ffbe2b9.chunk.css",
-    "main.js": "/portfoliov2/static/js/main.3401c09d.chunk.js",
-    "main.js.map": "/portfoliov2/static/js/main.3401c09d.chunk.js.map",
+    "main.js": "/portfoliov2/static/js/main.b9b36a1a.chunk.js",
+    "main.js.map": "/portfoliov2/static/js/main.b9b36a1a.chunk.js.map",
     "runtime-main.js": "/portfoliov2/static/js/runtime-main.1d73af2f.js",
     "runtime-main.js.map": "/portfoliov2/static/js/runtime-main.1d73af2f.js.map",
     "static/css/2.73d6e14f.chunk.css": "/portfoliov2/static/css/2.73d6e14f.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.73d6e14f.chunk.css.map": "/portfoliov2/static/css/2.73d6e14f.chunk.css.map",
     "static/css/main.6ffbe2b9.chunk.css.map": "/portfoliov2/static/css/main.6ffbe2b9.chunk.css.map",
     "static/js/2.6736fe3f.chunk.js.LICENSE.txt": "/portfoliov2/static/js/2.6736fe3f.chunk.js.LICENSE.txt",
-    "static/media/adm-budget.48a5b224.jpg": "/portfoliov2/static/media/adm-budget.48a5b224.jpg",
+    "static/media/adm-budget.fad42004.jpg": "/portfoliov2/static/media/adm-budget.fad42004.jpg",
     "static/media/back-end.344366f3.jpg": "/portfoliov2/static/media/back-end.344366f3.jpg",
     "static/media/background.c367868f.jpg": "/portfoliov2/static/media/background.c367868f.jpg",
     "static/media/banner.261377ee.jpg": "/portfoliov2/static/media/banner.261377ee.jpg",
@@ -34,6 +34,6 @@
     "static/css/2.73d6e14f.chunk.css",
     "static/js/2.6736fe3f.chunk.js",
     "static/css/main.6ffbe2b9.chunk.css",
-    "static/js/main.3401c09d.chunk.js"
+    "static/js/main.b9b36a1a.chunk.js"
   ]
 }
